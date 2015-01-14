@@ -14,6 +14,7 @@
 		956EDF301A6419F20037504B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 956EDF2E1A6419F20037504B /* LaunchScreen.xib */; };
 		956EDF3C1A6419F20037504B /* PizzaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956EDF3B1A6419F20037504B /* PizzaTests.swift */; };
 		956EDF461A641A2B0037504B /* Pizzafile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956EDF451A641A2B0037504B /* Pizzafile.swift */; };
+		C15365A91A66E95900B404BC /* EveryPizzaJoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = C15365A81A66E95900B404BC /* EveryPizzaJoint.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		956EDF3A1A6419F20037504B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		956EDF3B1A6419F20037504B /* PizzaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaTests.swift; sourceTree = "<group>"; };
 		956EDF451A641A2B0037504B /* Pizzafile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pizzafile.swift; sourceTree = "<group>"; };
+		C15365A81A66E95900B404BC /* EveryPizzaJoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EveryPizzaJoint.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				956EDF251A6419F20037504B /* AppDelegate.swift */,
 				956EDF271A6419F20037504B /* ViewController.swift */,
 				956EDF451A641A2B0037504B /* Pizzafile.swift */,
+				C15365A81A66E95900B404BC /* EveryPizzaJoint.swift */,
 				956EDF291A6419F20037504B /* Main.storyboard */,
 				956EDF2C1A6419F20037504B /* Images.xcassets */,
 				956EDF2E1A6419F20037504B /* LaunchScreen.xib */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				956EDF461A641A2B0037504B /* Pizzafile.swift in Sources */,
+				C15365A91A66E95900B404BC /* EveryPizzaJoint.swift in Sources */,
 				956EDF281A6419F20037504B /* ViewController.swift in Sources */,
 				956EDF261A6419F20037504B /* AppDelegate.swift in Sources */,
 			);
@@ -411,6 +415,7 @@
 				956EDF411A6419F20037504B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		956EDF421A6419F20037504B /* Build configuration list for PBXNativeTarget "PizzaTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +424,7 @@
 				956EDF441A6419F20037504B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
